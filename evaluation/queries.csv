@@ -1,0 +1,11 @@
+﻿query_id,query,deskripsi,jumlah_relevan,relevant_doc_ids
+Q1,Indonesia juara final Thailand penalti,Berita kemenangan Indonesia atas Thailand lewat adu penalti di final,195,"D3,D4,D6,D11,D12,D20,D23,D24,D25,D26,D28,D29,D30,D32,D33,D34,D35,D36,D37,D39..."
+Q2,Emil Audero kiper pahlawan penalti,Peran kiper Emil Audero menepis penalti di final,120,"D3,D4,D6,D20,D34,D35,D37,D42,D46,D49,D51,D52,D56,D57,D60,D64,D65,D68,D70,D71..."
+Q3,John Herdman pelatih taktik strategi,Kinerja dan taktik pelatih John Herdman,417,"D1,D8,D12,D18,D29,D34,D35,D36,D40,D52,D55,D58,D59,D60,D61,D65,D66,D67,D73,D80..."
+Q4,Elkan Baggott gol penyeimbang,Gol krusial Elkan Baggott di babak perpanjangan waktu,135,"D4,D22,D23,D24,D30,D34,D35,D36,D37,D39,D45,D50,D51,D52,D60,D63,D64,D67,D69,D71..."
+Q5,Kevin Diks kapten kado ulang tahun,Kevin Diks sebagai kapten dan momen ulang tahunnya,273,"D4,D19,D22,D28,D35,D40,D45,D50,D54,D59,D60,D62,D71,D72,D73,D79,D81,D82,D84,D87..."
+Q6,Chanathip Songkrasin kapten Thailand komentar,Pernyataan Chanathip Songkrasin pasca kekalahan Thailand,49,"D4,D13,D14,D41,D45,D50,D71,D72,D79,D81,D82,D84,D97,D105,D149,D200,D247,D259,D261,D265..."
+Q7,Malaysia clean sheet gagal lolos final,Nasib Timnas Malaysia yang tidak kebobolan tapi gagal ke final,452,"D19,D22,D30,D31,D34,D35,D39,D51,D66,D76,D78,D86,D87,D95,D97,D99,D106,D107,D115,D117..."
+Q8,Prabowo Subianto Presiden nonton selebrasi GBK,Kehadiran dan selebrasi Presiden Prabowo di SUGBK,22,"D26,D60,D62,D73,D147,D246,D353,D368,D382,D386,D615,D643,D646,D659,D674,D697,D700,D701,D702,D729..."
+Q9,Justin Hubner bek preman,Aksi dan komentar Justin Hubner selama turnamen,167,"D4,D6,D20,D65,D70,D71,D72,D79,D81,D82,D84,D99,D108,D109,D115,D118,D124,D132,D140,D146..."
+Q10,Erick Thohir PSSI evaluasi timnas,Pernyataan Ketua Umum PSSI Erick Thohir,55,"D8,D26,D58,D121,D147,D162,D246,D262,D309,D335,D337,D339,D343,D345,D353,D357,D361,D368,D375,D382..."

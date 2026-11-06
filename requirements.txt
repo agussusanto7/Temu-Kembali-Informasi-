@@ -1,0 +1,16 @@
+# =============================================================================
+# Dependencies — Tugas 2 Sistem Temu Kembali Informasi (Information Retrieval)
+# Korpus Berita Timnas Indonesia Juara FIFA ASEAN Cup 2026
+# =============================================================================
+
+# --- Modul Inti Mesin Pencari & Web Server ---
+Flask>=3.0.0
+pandas>=2.0.0
+Sastrawi>=1.0.1
+
+# --- Modul Visualisasi Data & Pelaporan (Opsional / Development) ---
+matplotlib>=3.8.0
+numpy>=1.24.0
+python-docx>=1.1.0
+Pillow>=10.0.0
+
